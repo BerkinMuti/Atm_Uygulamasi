@@ -1,0 +1,7 @@
+C:\Users\Berkin Muti\source\repos\ATM_Projesi\ATM_Projesi\bin\Debug\ATM_Projesi.exe.config
+C:\Users\Berkin Muti\source\repos\ATM_Projesi\ATM_Projesi\bin\Debug\ATM_Projesi.exe
+C:\Users\Berkin Muti\source\repos\ATM_Projesi\ATM_Projesi\bin\Debug\ATM_Projesi.pdb
+C:\Users\Berkin Muti\source\repos\ATM_Projesi\ATM_Projesi\obj\Debug\ATM_Projesi.csproj.AssemblyReference.cache
+C:\Users\Berkin Muti\source\repos\ATM_Projesi\ATM_Projesi\obj\Debug\ATM_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Berkin Muti\source\repos\ATM_Projesi\ATM_Projesi\obj\Debug\ATM_Projesi.exe
+C:\Users\Berkin Muti\source\repos\ATM_Projesi\ATM_Projesi\obj\Debug\ATM_Projesi.pdb
